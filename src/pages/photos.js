@@ -1,3 +1,7 @@
+import Image from "./../components/Image"
+
 export default function photos() {
-    return `photos will go here`;
+    return <div>
+        <Image />
+    </div>;
 }
